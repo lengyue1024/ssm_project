@@ -3,6 +3,9 @@
 # ssm_project
 springboot整合ssm，前后端分离
 
+## 前端地址
+<https://github.com/lengyue1024/vue_project>
+
 - [x] 前后端分离项目，该crud的demo主要用于整合知识
 
 预览图: :point_right: [点此进行阅览](https://github.com/lengyue1024/ssm_project/tree/main/img)
