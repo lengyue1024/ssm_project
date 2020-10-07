@@ -1,2 +1,4 @@
+<img align="right" alt="Spring Initializr" src="/img/spring-initializr.svg" width="100">
+
 # ssm_project
-spring boot整合ssm，前后端分离
+springboot整合ssm，前后端分离
